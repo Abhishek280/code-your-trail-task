@@ -41,4 +41,4 @@ Example:http://localhost:8090/movie/title/spiderman
 
 
 
-## Tasks 2 and 3 are in folder code-your-trail-task, download them and run as simple java files.
+## Tasks 2 and 3 are in folder BackendDevTask, download them and run as simple java files.
