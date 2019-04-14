@@ -31,9 +31,10 @@ http://localhost:8090/swagger-ui.html#
 Open postman select get request and copy the below url and run it.
 
 ```shell
-http://localhost:8090/movie/title/Spiderman
+http://localhost:8090/movie/title/{title}
 ```
 # Directly open the following link
 ```shell
-http://localhost:8090/movie/title/Spiderman
+http://localhost:8090/movie/title/{title}
 ```
+Example:http://localhost:8090/movie/title/spiderman 
